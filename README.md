@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there!
+
+### Projects
+- Go on adventures and explore the mysteries of the Antique Souls Collection: https://theantiquesouls.com/
+- Go on adventures and explore the real world: https://where2walk.me/
+
+### About me
+- Fullstack Web-Developer for couple of years
+- Currently studying Data-Science and AI at Maastricht University
 
 <!--
 **SirLeoIV/SirLeoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
