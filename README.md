@@ -1,8 +1,10 @@
 ## Hi there!
 
 ### Projects
-- Go on adventures and explore the mysteries of the Antique Souls Collection: https://theantiquesouls.com/
-- Go on adventures and explore the real world: https://where2walk.me/
+- Go on adventures and explore the mysteries of the Antique Souls Collection: [The Antique Souls](https://theantiquesouls.com/)
+- Go on adventures and explore the real world: [Where2Walk](https://where2walk.me/)
+- Go play my game [The Basement](https://sirleoiv.itch.io/the-basement)
+
 
 ### About me
 - Fullstack Web-Developer for couple of years
