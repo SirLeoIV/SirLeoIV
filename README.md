@@ -8,7 +8,7 @@
 
 ### About me
 - Fullstack Web-Developer for couple of years
-- Currently studying Data-Science and AI at Maastricht University
+- Studied Data-Science and AI at Maastricht University
 
 <!--
 **SirLeoIV/SirLeoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
