@@ -1,0 +1,71 @@
++------------------------------------------------------------+
+| Welcome to the Collection of Antique Souls Museum! We      |
+| hope you have a pleasant time with us - there are so       |
+| many mysteries to uncover! The museum can feel             |
+| overwhelming, but do not worry. We created this map so     |
+| you do not get lost in the big exhibition rooms and long   |
+| corridors.                                                 |
++------------------------------------------------------------+
+
++------------------------------------------------------------+
+| [SPOILER WARNING]: Looking at the detailed map of the      |
+| museum might take away some of the mystery and magic of    |
+| exploring the building by yourself. We recommend that      |
+| you get a pen and a notebook and draw your own map while   |
+| wandering around. Use it to keep track of your position    |
+| and to take notes of anything that might be important      |
+| for solving the puzzles.                                   |
++------------------------------------------------------------+
+
+
+
+    General layout:
+
+                         FIRST FLOOR
+|===================|                   |===================|
+|  [RENAISSANCE]    |===================|    [EGYPTIAN]     |
+|   [DISPLAY]       |                   |    [DISPLAY]      |
+|                   |   [UPPER HALL]    |                   |
+|===================|___________________|===================|
+
+
+                        GROUND FLOOR
+                    |-------------------|
+|===================|                   |===================|
+|   [MEDIEVAL]      |    [MAIN HALL]    |    [GREEK]        |
+|   [DISPLAY]       |                   |    [DISPLAY]      |
+|                   |===================|                   |
+|===================|                   |===================|
+
+
+
+    Detailed map:
+
+|=======================================|                                       |=======================================|
+|            |                          |                                       |  [CHEST]  | [TREASURY] | [MYSTERIOUS] |
+|            |                          |          [THE ANTIQUE SOULS]          |  [ROOM]  _|_          _|_ [CHAMBER]   |
+| [STORAGE]  |      [RENAISSANCE]       |             [COLLECTION]              |          ___          ___             |
+|  [ROOM]    |      [ART GALLERY]       |                                       |___________|______|  |__|______________|
+|            |                          |                                       |             _|_                       |
+|___|  |_____|_______________|  |_______|                                       | [CORRIDOR]  ___                       |
+|                      |  [RENAISSANCE] |=======================================|____|  |______|     [EMPTY ROOM]       |
+|  [RENOVATION ROOM]   |  [DISPLAY]    _|_                                     _|_             |                        |
+|___|  |_______________|  [ENTRANCE]   ___                                     ___ [EGYPTIAN]  |                        |
+|                      |_____|  |_______|             [UPPER HALL]              |  [DISPLAY]   |                        |
+|       [STAFF ONLY CORRIDOR]           |                                       |  [ENTRANCE]  |                        |
+|=======================================|                                       |=======================================|
+|   [EMPTY CORRIDOR]  _|_               |__/======/___________________\======\__|                   |                   |
+|                     ___               | |======| |                 | |======| |                   |                   |
+|__| |_________________|  [MEDIEVAL]    |  \======\|   [RECEPTION]   |/======/  |    [GREEK]        |     [TEMPLE]      |
+|       |              |  [DISPLAY]    _|_  \======\\               //======/  _|_   [DISPLAY]     _|_    [DISPLAY]     |
+| [WC]  | [SALVATION]  |  [ENTRANCE]   ___                                     ___   [ENTRANCE]    ___                  |
+|       |  [DISPLAY]   |                |                                       |                   |                   |
+|_______|___|  |_______|_____|  |_______|                                       |________|  |_______|________|  |_______|
+|                   |                   |              [MAIN HALL]              |                   |                   |
+|  [BEING FLAWED]  _|_     [BEING]      |                                       |   [UNDERWORLD]   _|_    [AGORA]       |
+|    [DISPLAY]     ___   [EARTHBOUND]   |================\=====/================|    [DISPLAY]     ___   [DISPLAY]      |
+|                   |     [DISPLAY]     |                                       |                   |                   |
+|=======================================|                                       |=======================================|
+
+
+Play the game at: https://www.theantiquesouls.com/
